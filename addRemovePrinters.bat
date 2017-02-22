@@ -1,0 +1,1 @@
+powershell -ExecutionPolicy bypass \\p2d2-ad1\c$\Scripts\addRemovePrinters.ps1
